@@ -1,0 +1,38 @@
+# Data — never commit raw recordings
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+*.xdf
+*.fif
+*.edf
+*.set
+*.fdt
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ipynb_checkpoints/
+.mypy_cache/
+.ruff_cache/
+
+# Notebooks — strip outputs before committing if you can
+# (uncomment to ignore notebook outputs entirely)
+# *.ipynb
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Results / artifacts
+results/
+*.png
+*.pdf
+!docs/**/*.png
+!references/**/*.pdf

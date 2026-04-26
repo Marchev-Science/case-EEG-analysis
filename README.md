@@ -46,11 +46,12 @@ Grading rubric and deliverables: [`docs/06-deliverables.md`](docs/06-deliverable
 
 ## Getting started
 
-1. Read [`docs/01-the-case.md`](docs/01-the-case.md) → [`docs/02-hardware.md`](docs/02-hardware.md) → [`docs/03-data-collection.md`](docs/03-data-collection.md).
-2. Pair your headset and record a 60-second baseline.
-3. Open [`code/notebooks/00-quickstart.ipynb`](code/notebooks/00-quickstart.ipynb) and verify you can load and plot it.
-4. Pick a research question, copy the matching `protocols/0X-*.md`, and adapt it.
-5. Collect, analyse, write up.
+1. **New to EEG?** Read [`docs/eeg-primer.md`](docs/eeg-primer.md) first (5 min).
+2. Then [`docs/01-the-case.md`](docs/01-the-case.md) → [`docs/02-hardware.md`](docs/02-hardware.md) → [`docs/03-data-collection.md`](docs/03-data-collection.md).
+3. Pair your headset and record a 60-second baseline.
+4. Open [`code/notebooks/00-quickstart.ipynb`](code/notebooks/00-quickstart.ipynb) and verify you can load and plot it.
+5. Pick a research question, copy the matching `protocols/0X-*.md`, and adapt it.
+6. Collect, analyse, write up.
 
 ## Repo layout
 

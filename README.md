@@ -30,7 +30,7 @@ The original project brief is archived at [`docs/00-original-brief.md`](docs/00-
 ## What's provided
 
 - **Hardware**: Muse 2 (4 EEG channels, 256 Hz) and Muse Athena (extended channels). See [`docs/02-hardware.md`](docs/02-hardware.md).
-- **Data-collection paths**: LSL + LabRecorder (XDF) and Petal Metrics / Mind Monitor (CSV) — see [`docs/03-data-collection.md`](docs/03-data-collection.md).
+- **Data-collection paths**: BlueMuse (Muse 2) or OpenMuse (Athena) → LabRecorder (XDF), or Petal Metrics / Mind Monitor (CSV) — see [`data-collection/README.md`](data-collection/README.md) and [`docs/03-data-collection.md`](docs/03-data-collection.md).
 - **Protocol templates**, one per research question, in [`protocols/`](protocols/).
 - **Code stubs** in [`code/`](code/) — empty modules, you fill them in.
 - **Report template** in [`reports/TEMPLATE.md`](reports/TEMPLATE.md).

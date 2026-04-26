@@ -49,12 +49,18 @@ recordings.
 
 ## Pairing & connection
 
-Two software paths — pick the one that fits your OS and comfort level:
+Software path depends on the headset:
 
-1. **muselsl + LabRecorder** (cross-platform, Python-friendly)
-   → see [`../data-collection/lab-recorder/`](../data-collection/lab-recorder/)
-2. **Petal Metrics** or **Mind Monitor** (GUI app, CSV output)
-   → see [`../data-collection/petal-metrics/`](../data-collection/petal-metrics/)
+| Headset      | Streaming software             | Walkthrough                                                                          |
+|--------------|--------------------------------|--------------------------------------------------------------------------------------|
+| Muse 2       | **BlueMuse** (Windows GUI)     | [`../data-collection/muse2-bluemuse/`](../data-collection/muse2-bluemuse/README.md)   |
+| Muse Athena  | **OpenMuse** (Python CLI)      | [`../data-collection/athena-openmuse/`](../data-collection/athena-openmuse/README.md) |
+
+Both feed [LabRecorder](../data-collection/lab-recorder/README.md), which
+writes a single `.xdf` file with all streams aligned.
+
+If you can't get LSL working, fall back to **Petal Metrics** or **Mind
+Monitor** (CSV output): [`../data-collection/petal-metrics/`](../data-collection/petal-metrics/README.md).
 
 ## Data quality checks before every recording
 

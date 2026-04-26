@@ -1,5 +1,10 @@
 # [Your Title] — EEG Case Study Report
 
+> **Prereqs:** [`../docs/06-deliverables.md`](../docs/06-deliverables.md), [`../docs/05-analysis-pipeline.md`](../docs/05-analysis-pipeline.md)
+> **Related:** [`../protocols/`](../protocols/) (your filled protocol), [`../docs/xdf-format.md`](../docs/xdf-format.md)
+
+---
+
 **Author.** _your name_
 **Date.** _YYYY-MM-DD_
 **Research question (from `docs/01-the-case.md`).** _which one_

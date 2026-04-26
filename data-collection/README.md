@@ -1,5 +1,11 @@
 # Data Collection — Pick Your Path
 
+> **Prereqs:** [`../docs/02-hardware.md`](../docs/02-hardware.md), [`../docs/03-data-collection.md`](../docs/03-data-collection.md)
+> **Next:** pick [`muse2-bluemuse/`](muse2-bluemuse/README.md) **or** [`athena-openmuse/`](athena-openmuse/README.md), then [`lab-recorder/`](lab-recorder/README.md)
+> **Related:** [`markers/send_markers.py`](markers/send_markers.py), [`petal-metrics/`](petal-metrics/README.md), [`../docs/xdf-format.md`](../docs/xdf-format.md)
+
+---
+
 You have two headsets and one recorder. The streaming software is different
 per device; the recorder (LabRecorder) is the same.
 

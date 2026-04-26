@@ -1,5 +1,11 @@
 # Muse Athena — OpenMuse + LabRecorder (Windows)
 
+> **Prereqs:** [`../README.md`](../README.md), [`../../docs/02-hardware.md`](../../docs/02-hardware.md)
+> **Next:** [`../lab-recorder/README.md`](../lab-recorder/README.md) (record once you're streaming)
+> **Related:** [`../markers/send_markers.py`](../markers/send_markers.py), [`../../docs/eeg-primer.md`](../../docs/eeg-primer.md), [`../../docs/xdf-format.md`](../../docs/xdf-format.md)
+
+---
+
 The Athena (Muse S Athena) is too new for BlueMuse, so we use **OpenMuse** —
 a research-grade Python tool by Dominique Makowski that decodes the Athena's
 BLE packets (EEG + PPG + fNIRS optics + accel/gyro + battery) and republishes

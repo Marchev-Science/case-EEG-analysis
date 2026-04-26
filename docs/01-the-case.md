@@ -1,5 +1,11 @@
 # 01 — The Case
 
+> **Prereqs:** [`eeg-primer.md`](eeg-primer.md)
+> **Next:** [`02-hardware.md`](02-hardware.md)
+> **Related:** [`../protocols/`](../protocols/) (one template per question)
+
+---
+
 This document expands the five research questions. You are not required to
 address all of them — pick one and go deep.
 

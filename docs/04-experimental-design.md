@@ -1,5 +1,11 @@
 # 04 — Experimental Design
 
+> **Prereqs:** [`01-the-case.md`](01-the-case.md), [`03-data-collection.md`](03-data-collection.md)
+> **Next:** [`05-analysis-pipeline.md`](05-analysis-pipeline.md)
+> **Related:** [`../protocols/`](../protocols/) (per-question templates that follow these rules)
+
+---
+
 A few non-negotiables and a few suggestions. The science is yours; the
 methodological hygiene is not optional.
 

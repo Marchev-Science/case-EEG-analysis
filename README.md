@@ -31,6 +31,7 @@ The original project brief is archived at [`docs/00-original-brief.md`](docs/00-
 
 - **Hardware**: Muse 2 (4 EEG channels, 256 Hz) and Muse Athena (extended channels). See [`docs/02-hardware.md`](docs/02-hardware.md).
 - **Data-collection paths**: BlueMuse (Muse 2) or OpenMuse (Athena) → LabRecorder (XDF), or Petal Metrics / Mind Monitor (CSV) — see [`data-collection/README.md`](data-collection/README.md) and [`docs/03-data-collection.md`](docs/03-data-collection.md).
+- **XDF file guide**: how to open, inspect, and convert to CSV / pandas / MNE — see [`docs/xdf-format.md`](docs/xdf-format.md).
 - **Protocol templates**, one per research question, in [`protocols/`](protocols/).
 - **Code stubs** in [`code/`](code/) — empty modules, you fill them in.
 - **Report template** in [`reports/TEMPLATE.md`](reports/TEMPLATE.md).
@@ -58,9 +59,53 @@ Grading rubric and deliverables: [`docs/06-deliverables.md`](docs/06-deliverable
 ```
 docs/             — case description, hardware, methods, deliverables
 protocols/        — per-question experimental protocol templates
-data-collection/  — LSL config, marker scripts, alt-app instructions
+data-collection/  — per-device streaming guides + recorder + markers
 code/             — your analysis code (stubs provided)
 data/             — your recordings (gitignored)
 reports/          — your written report
 references/       — papers and reference implementations
 ```
+
+## Site map (every doc, in reading order)
+
+Every doc has a navigation block at the top with **Prereqs / Next / Related**
+links. Use those to wander — this is the index.
+
+### The curriculum (read these in order)
+1. [`docs/eeg-primer.md`](docs/eeg-primer.md) — what EEG actually is, in 5 min
+2. [`docs/01-the-case.md`](docs/01-the-case.md) — the five research questions, expanded
+3. [`docs/02-hardware.md`](docs/02-hardware.md) — Muse 2 vs Athena, picking one
+4. [`docs/03-data-collection.md`](docs/03-data-collection.md) — overview of recording paths
+5. [`docs/04-experimental-design.md`](docs/04-experimental-design.md) — non-negotiables, baselines, markers
+6. [`docs/05-analysis-pipeline.md`](docs/05-analysis-pipeline.md) — what a respectable pipeline contains
+7. [`docs/06-deliverables.md`](docs/06-deliverables.md) — what you submit, how it's graded
+
+### Reference docs (read when relevant)
+- [`docs/xdf-format.md`](docs/xdf-format.md) — XDF files: structure, loading, conversion to CSV / pandas / MNE
+- [`docs/00-original-brief.md`](docs/00-original-brief.md) — original Bulgarian brief (archived)
+- [`references/papers.md`](references/papers.md) — papers, libraries, datasets
+
+### Per-device recording walkthroughs
+- [`data-collection/README.md`](data-collection/README.md) — pick the right path for your headset
+- [`data-collection/muse2-bluemuse/README.md`](data-collection/muse2-bluemuse/README.md) — Muse 2 via BlueMuse (Windows)
+- [`data-collection/athena-openmuse/README.md`](data-collection/athena-openmuse/README.md) — Muse Athena via OpenMuse (Python)
+- [`data-collection/lab-recorder/README.md`](data-collection/lab-recorder/README.md) — recording streams to XDF
+- [`data-collection/petal-metrics/README.md`](data-collection/petal-metrics/README.md) — fallback no-code CSV path
+- [`data-collection/markers/send_markers.py`](data-collection/markers/send_markers.py) — LSL marker outlet
+
+### Per-question experiment protocols
+- [`protocols/01-ai-vs-human-coding.md`](protocols/01-ai-vs-human-coding.md)
+- [`protocols/02-person-identification.md`](protocols/02-person-identification.md)
+- [`protocols/03-activity-classification.md`](protocols/03-activity-classification.md)
+- [`protocols/04-gender-differences.md`](protocols/04-gender-differences.md)
+- [`protocols/05-attention-span.md`](protocols/05-attention-span.md)
+
+### Code & data
+- [`code/data_access/README.md`](code/data_access/README.md) — XDF / CSV loaders (stubs for you to fill)
+- [`code/notebooks/00-quickstart.ipynb`](code/notebooks/00-quickstart.ipynb) — load + plot one recording
+- [`code/notebooks/01-analysis-template.ipynb`](code/notebooks/01-analysis-template.ipynb) — end-to-end skeleton
+- [`data/README.md`](data/README.md) — naming convention, privacy, large-file handling
+
+### Reporting
+- [`reports/README.md`](reports/README.md) — where your report goes
+- [`reports/TEMPLATE.md`](reports/TEMPLATE.md) — report scaffold

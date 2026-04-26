@@ -1,5 +1,11 @@
 # LabRecorder
 
+> **Prereqs:** a streaming source: [`../muse2-bluemuse/README.md`](../muse2-bluemuse/README.md) **or** [`../athena-openmuse/README.md`](../athena-openmuse/README.md)
+> **Next:** [`../../docs/04-experimental-design.md`](../../docs/04-experimental-design.md), then [`../../docs/xdf-format.md`](../../docs/xdf-format.md) to load what you recorded
+> **Related:** [`../markers/send_markers.py`](../markers/send_markers.py), [`../../data/README.md`](../../data/README.md)
+
+---
+
 LabRecorder writes any LSL streams it can see to a single `.xdf` file.
 **It does not stream from your headset directly** — that's the job of
 BlueMuse (Muse 2) or OpenMuse (Athena). Get one of those running first:

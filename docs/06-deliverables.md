@@ -1,5 +1,11 @@
 # 06 — Deliverables & Grading
 
+> **Prereqs:** [`05-analysis-pipeline.md`](05-analysis-pipeline.md)
+> **Next:** [`../reports/TEMPLATE.md`](../reports/TEMPLATE.md)
+> **Related:** [`../reports/README.md`](../reports/README.md), [`../protocols/`](../protocols/)
+
+---
+
 ## What you submit
 
 1. **Report** at `reports/<your-name>.md` (or `.pdf`) — see [`../reports/TEMPLATE.md`](../reports/TEMPLATE.md).

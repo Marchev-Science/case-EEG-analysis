@@ -1,5 +1,11 @@
 # Protocol 04 — Sex Differences in Resting-State EEG
 
+> **Prereqs:** [`../docs/01-the-case.md`](../docs/01-the-case.md), [`../docs/04-experimental-design.md`](../docs/04-experimental-design.md), [`../docs/03-data-collection.md`](../docs/03-data-collection.md)
+> **Next:** [`../docs/05-analysis-pipeline.md`](../docs/05-analysis-pipeline.md), [`../reports/TEMPLATE.md`](../reports/TEMPLATE.md)
+> **Related:** [`../data-collection/markers/send_markers.py`](../data-collection/markers/send_markers.py)
+
+---
+
 > Copy this file to `protocols/<your-name>_04.md` and fill in the TODOs.
 
 ## Hypothesis

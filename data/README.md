@@ -1,5 +1,10 @@
 # data/
 
+> **Prereqs:** [`../docs/03-data-collection.md`](../docs/03-data-collection.md)
+> **Related:** [`../data-collection/lab-recorder/README.md`](../data-collection/lab-recorder/README.md), [`../docs/xdf-format.md`](../docs/xdf-format.md), [`../code/data_access/README.md`](../code/data_access/README.md)
+
+---
+
 `raw/` and `processed/` are gitignored. Only `.gitkeep` files are committed
 so the directories exist on clone.
 

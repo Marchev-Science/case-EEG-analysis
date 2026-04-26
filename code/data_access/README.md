@@ -1,5 +1,11 @@
 # code/data_access
 
+> **Prereqs:** [`../../docs/xdf-format.md`](../../docs/xdf-format.md), [`../../docs/03-data-collection.md`](../../docs/03-data-collection.md)
+> **Next:** [`../preprocessing/`](../preprocessing/), [`../../docs/05-analysis-pipeline.md`](../../docs/05-analysis-pipeline.md)
+> **Related:** [`../notebooks/00-quickstart.ipynb`](../notebooks/00-quickstart.ipynb), [`../../data/README.md`](../../data/README.md)
+
+---
+
 Loaders for the two recording formats used in this case study.
 
 - `load_xdf.py` — XDF files from LabRecorder

@@ -1,5 +1,11 @@
 # Muse 2 — BlueMuse + LabRecorder (Windows)
 
+> **Prereqs:** [`../README.md`](../README.md), [`../../docs/02-hardware.md`](../../docs/02-hardware.md)
+> **Next:** [`../lab-recorder/README.md`](../lab-recorder/README.md) (record once you're streaming)
+> **Related:** [`../markers/send_markers.py`](../markers/send_markers.py), [`../../docs/eeg-primer.md`](../../docs/eeg-primer.md), [`../../docs/xdf-format.md`](../../docs/xdf-format.md)
+
+---
+
 The easiest path on Windows. BlueMuse handles BLE → LSL; LabRecorder writes
 the LSL streams to an XDF file.
 

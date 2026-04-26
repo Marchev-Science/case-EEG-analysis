@@ -1,5 +1,11 @@
 # 02 — Hardware
 
+> **Prereqs:** [`eeg-primer.md`](eeg-primer.md), [`01-the-case.md`](01-the-case.md)
+> **Next:** [`03-data-collection.md`](03-data-collection.md)
+> **Related:** [`../data-collection/README.md`](../data-collection/README.md) (per-device walkthroughs)
+
+---
+
 You have access to two headsets. They share an SDK family but differ in
 electrode count and signal quality.
 

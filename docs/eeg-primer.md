@@ -1,5 +1,11 @@
 # EEG Primer — Read This First
 
+> **Prereqs:** [`../README.md`](../README.md)
+> **Next:** [`01-the-case.md`](01-the-case.md)
+> **Related:** [`02-hardware.md`](02-hardware.md), [`xdf-format.md`](xdf-format.md)
+
+---
+
 A 5-minute orientation. Not a course. Enough to keep you from staring at
 your first recording wondering "what am I looking at."
 

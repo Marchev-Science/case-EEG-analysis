@@ -1,5 +1,9 @@
 # References
 
+> **Related:** [`../docs/05-analysis-pipeline.md`](../docs/05-analysis-pipeline.md), [`../docs/eeg-primer.md`](../docs/eeg-primer.md), [`../docs/xdf-format.md`](../docs/xdf-format.md)
+
+---
+
 A starter reading list. Add your own as you go.
 
 ## Reference implementation

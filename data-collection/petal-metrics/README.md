@@ -1,5 +1,11 @@
 # Petal Metrics / Mind Monitor (no-code path)
 
+> **Prereqs:** [`../../docs/02-hardware.md`](../../docs/02-hardware.md)
+> **Next:** [`../../docs/04-experimental-design.md`](../../docs/04-experimental-design.md)
+> **Related:** [`../../data/README.md`](../../data/README.md), [`../../code/data_access/load_muse_csv.py`](../../code/data_access/load_muse_csv.py)
+
+---
+
 Use this if you can't get LSL working or you want a phone-based recorder.
 
 ## Petal Metrics (desktop)

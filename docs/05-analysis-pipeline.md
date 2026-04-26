@@ -1,5 +1,11 @@
 # 05 — Analysis Pipeline
 
+> **Prereqs:** [`04-experimental-design.md`](04-experimental-design.md), [`xdf-format.md`](xdf-format.md)
+> **Next:** [`06-deliverables.md`](06-deliverables.md)
+> **Related:** [`../code/`](../code/), [`../code/notebooks/01-analysis-template.ipynb`](../code/notebooks/01-analysis-template.ipynb), [`../references/papers.md`](../references/papers.md)
+
+---
+
 A skeleton for *what* a respectable pipeline contains. The *how* is up to you
 — `code/` is full of empty modules waiting for your implementation.
 

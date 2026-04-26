@@ -1,5 +1,11 @@
 # 03 — Data Collection
 
+> **Prereqs:** [`02-hardware.md`](02-hardware.md)
+> **Next:** [`04-experimental-design.md`](04-experimental-design.md)
+> **Related:** [`../data-collection/README.md`](../data-collection/README.md), [`xdf-format.md`](xdf-format.md), [`../data-collection/markers/send_markers.py`](../data-collection/markers/send_markers.py)
+
+---
+
 Two recording paths are supported. Use whichever you can get working — both
 produce analyzable data.
 

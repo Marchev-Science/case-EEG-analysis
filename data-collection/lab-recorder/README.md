@@ -112,3 +112,9 @@ Markers are how you align the EEG to your experiment events
 
 LabRecorder will record both the EEG stream and the marker stream into the
 same XDF, time-aligned via LSL's clock.
+
+---
+
+[**← Prev: Streaming (BlueMuse / OpenMuse)**](../README.md) | [**Next: 04 — Experimental Design →**](../../docs/04-experimental-design.md)
+
+*After your first recording:* [`../../docs/xdf-format.md`](../../docs/xdf-format.md) — load and inspect the XDF you just made.

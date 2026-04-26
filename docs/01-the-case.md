@@ -91,3 +91,7 @@ For *whichever* question you pick, your study must specify:
 - [ ] Pre-processing pipeline
 - [ ] Statistical / ML evaluation protocol with chance level
 - [ ] Limitations
+
+---
+
+[**← Prev: EEG Primer**](eeg-primer.md) | [**Next: 02 — Hardware →**](02-hardware.md)

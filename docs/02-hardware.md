@@ -75,3 +75,7 @@ Monitor** (CSV output): [`../data-collection/petal-metrics/`](../data-collection
 - [ ] Visible 10 Hz alpha bump on eyes-closed baseline
 - [ ] No 50/60 Hz line-noise dominance
 - [ ] Battery > 30 %
+
+---
+
+[**← Prev: 01 — The Case**](01-the-case.md) | [**Next: 03 — Data Collection →**](03-data-collection.md)

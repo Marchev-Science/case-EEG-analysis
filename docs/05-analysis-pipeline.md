@@ -69,3 +69,9 @@ design and the pipeline must match it.
 - `code/models/` — train/eval/cross-validation
 - `code/notebooks/00-quickstart.ipynb` — sanity-check loading + plotting
 - `code/notebooks/01-analysis-template.ipynb` — your study end-to-end
+
+---
+
+[**← Prev: 04 — Experimental Design**](04-experimental-design.md) | [**Next: 06 — Deliverables →**](06-deliverables.md)
+
+*Side trip:* [`xdf-format.md`](xdf-format.md) — load the XDF before you can analyse it.

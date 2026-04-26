@@ -49,3 +49,7 @@ Counterbalance the four activity orders (Latin square if N permits).
 - Chance = 25 %
 - Report per-class precision/recall, confusion matrix
 - Sub-epoch length: _e.g., 5 s windows, 2.5 s overlap_
+
+---
+
+[**← Prev: 04 — Experimental Design**](../docs/04-experimental-design.md) | [**Next: 05 — Analysis Pipeline →**](../docs/05-analysis-pipeline.md)

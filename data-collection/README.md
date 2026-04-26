@@ -47,4 +47,8 @@ miss sensors.
 | Petal Metrics             | ✅      | ✅    | ❌    |
 | Mind Monitor              | iOS / Android only            |
 
+---
+
+[**← Prev: 03 — Data Collection**](../docs/03-data-collection.md) | **Next:** pick [**Muse 2 → BlueMuse →**](muse2-bluemuse/README.md) or [**Athena → OpenMuse →**](athena-openmuse/README.md)
+
 *\*OpenMuse: cross-platform on paper, but our setup notes are Windows.*

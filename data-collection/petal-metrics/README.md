@@ -40,3 +40,7 @@ Onset is seconds from recording start. Without this you cannot epoch the data.
 data/raw/sub-<ID>/ses-<S>/eeg/sub-<ID>_ses-<S>_task-<TASK>_run-<R>_eeg.csv
 data/raw/sub-<ID>/ses-<S>/eeg/sub-<ID>_ses-<S>_task-<TASK>_run-<R>_events.csv
 ```
+
+---
+
+[**← Prev: Data Collection (overview)**](../README.md) | [**Next: 04 — Experimental Design →**](../../docs/04-experimental-design.md)

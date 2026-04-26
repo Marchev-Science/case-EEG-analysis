@@ -222,3 +222,7 @@ data["EEG"].head()
 
 You lose synchronised marker support, so prefer the LSL path for any
 condition-based experiment.
+
+---
+
+[**← Prev: Data Collection (overview)**](../README.md) | [**Next: LabRecorder →**](../lab-recorder/README.md)

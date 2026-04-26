@@ -47,3 +47,7 @@ within-type subjects cluster in feature space.
 
 EEG biometrics are personally identifying. Store with opaque IDs; keep the
 ID-to-person mapping outside the repo.
+
+---
+
+[**← Prev: 04 — Experimental Design**](../docs/04-experimental-design.md) | [**Next: 05 — Analysis Pipeline →**](../docs/05-analysis-pipeline.md)

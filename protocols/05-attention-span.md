@@ -50,3 +50,7 @@ Order counterbalanced. Insert 60 s rest between blocks.
 - Test slope of engagement-vs-time per condition
 - Mixed-effects model: subject as random effect, content × duration as fixed
 - Report effect sizes
+
+---
+
+[**← Prev: 04 — Experimental Design**](../docs/04-experimental-design.md) | [**Next: 05 — Analysis Pipeline →**](../docs/05-analysis-pipeline.md)

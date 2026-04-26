@@ -62,3 +62,9 @@ Each protocol in `protocols/` should specify:
 - [ ] Inter-block rest length
 - [ ] Subject instructions (verbatim)
 - [ ] Exclusion criteria for trials/subjects
+
+---
+
+[**← Prev: 03 — Data Collection**](03-data-collection.md) | [**Next: 05 — Analysis Pipeline →**](05-analysis-pipeline.md)
+
+*Side trip:* [`../protocols/`](../protocols/) — pick a protocol template and copy it.

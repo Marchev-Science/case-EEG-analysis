@@ -170,3 +170,7 @@ If you need to debug:
 
 (The `_*` is BlueMuse's UWP package suffix — there will be exactly one folder
 matching that pattern.)
+
+---
+
+[**← Prev: Data Collection (overview)**](../README.md) | [**Next: LabRecorder →**](../lab-recorder/README.md)

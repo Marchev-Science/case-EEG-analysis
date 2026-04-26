@@ -54,3 +54,7 @@ Counterbalance order of `WATCH_NEUTRAL`, `CODE_SOLO`, `CODE_AI` across subjects.
 ## Notes
 
 - TODO
+
+---
+
+[**← Prev: 04 — Experimental Design**](../docs/04-experimental-design.md) | [**Next: 05 — Analysis Pipeline →**](../docs/05-analysis-pipeline.md)

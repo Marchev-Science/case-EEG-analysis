@@ -154,4 +154,8 @@ the train/test split. Check first.
 - Blinks, jaw, motion, line noise are your enemies.
 - Be modest about what 4 electrodes and 10 friends can prove.
 
-You're ready. Read `docs/02-hardware.md` next.
+You're ready.
+
+---
+
+[**← Prev: README**](../README.md) | [**Next: 01 — The Case →**](01-the-case.md)

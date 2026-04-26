@@ -75,3 +75,9 @@ The `events.csv` should have at least `onset_seconds, duration_seconds, label`.
 - [ ] Markers sent at every condition transition
 - [ ] Filename follows convention
 - [ ] Notes file written immediately after the session
+
+---
+
+[**← Prev: 02 — Hardware**](02-hardware.md) | [**Next: 04 — Experimental Design →**](04-experimental-design.md)
+
+*Side trip:* [`xdf-format.md`](xdf-format.md) — what the file you're recording actually is.

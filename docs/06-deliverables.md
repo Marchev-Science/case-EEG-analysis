@@ -34,3 +34,7 @@ and *against* over-claiming on small samples.
 
 Open a pull request from your fork, or push to a branch named
 `student/<your-name>`. Include all five items above.
+
+---
+
+[**← Prev: 05 — Analysis Pipeline**](05-analysis-pipeline.md) | [**Next: Report Template →**](../reports/TEMPLATE.md)

@@ -40,3 +40,7 @@
 - Group comparison: t-test or Mann-Whitney with multiple-comparison correction
 - Effect size: Cohen's d with bootstrap CI
 - Optional: classifier on spectral features, LOSO, report chance
+
+---
+
+[**← Prev: 04 — Experimental Design**](../docs/04-experimental-design.md) | [**Next: 05 — Analysis Pipeline →**](../docs/05-analysis-pipeline.md)

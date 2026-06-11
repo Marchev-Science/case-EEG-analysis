@@ -1,4 +1,4 @@
-# case-EEG-analysis
+# Case: EEG analysis
 
 An open-ended EEG case study for graduate research. You are given two consumer EEG
 headsets (Muse 2 and Muse Athena), a set of research questions, and the freedom to
